@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=hey%2C+i'm+contraband+%F0%9F%91%8B;i+build+AI+that+talks+like+people;bots+%C2%B7+automation+%C2%B7+infra;shipping+while+you+sleep+%F0%9F%8C%99" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=hey%2C+i'm+contraband+%F0%9F%91%8B;i+build+AI+that+talks+like+people;bots+%C2%B7+automation+%C2%B7+infra;junkie+addicted+to+automation+%E2%9A%A1;shipping+while+you+sleep+%F0%9F%8C%99" alt="typing intro" />
 
 <br/>
 
@@ -22,6 +22,7 @@ backend: Python · Go
 frontend: React · TypeScript
 infra: Docker · PostgreSQL · Redis · Linux · Caddy
 ai: LLM pipelines, prompt engineering, safety reads, cost tuning
+status: junkie, addicted to automation
 motto: if it can be automated, it will be
 ```
 
@@ -34,16 +35,15 @@ motto: if it can be automated, it will be
 ### `> stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=c0ntraband&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=7dcfff" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0ntraband&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa" alt="languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most committed languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=c0ntraband&theme=tokyonight&hide_border=true&background=1A1B27&ring=A78BFA&fire=7DCFFF&currStreakLabel=A78BFA" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0ntraband&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a78bfa&line=7dcfff&point=ffffff&area=true" alt="activity" />
 </p>
 
 ### `> contributions`
